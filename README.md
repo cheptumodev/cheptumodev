@@ -8,3 +8,4 @@
 cheptumodev/cheptumodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Untitled design (19)](https://user-images.githubusercontent.com/118058860/201509503-f03f3b84-f6e1-4992-bf49-16aa387e6383.jpg)
